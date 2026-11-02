@@ -1,0 +1,14 @@
+variable = 10
+print(type(variable))
+
+variable = 3.14
+print(type(variable))
+
+variable = True
+print(type(variable))
+
+variable = "Hello, world!"
+print(type(variable))
+
+variable = [1,2,3,4,5]
+print(type(variable))
